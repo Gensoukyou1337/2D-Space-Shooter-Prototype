@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemyDestroy.cs">
+    <Files>
+      <File FileName="Assets\Scripts\EnemyDestroy.cs" Line="54" Column="21" />
+      <File FileName="Assets\Scripts\WaveMarker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerSpawnManager.cs" Line="42" Column="40" />
+      <File FileName="Assets\Scripts\FacingPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LivesMarker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemySpawner.cs" Line="24" Column="23" />
+      <File FileName="Assets\Scripts\ScoreMarker.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
